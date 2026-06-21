@@ -1,0 +1,5 @@
+# segredos — NUNCA versionar
+.env
+
+# dados locais
+*.log
